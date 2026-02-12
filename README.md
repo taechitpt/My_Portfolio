@@ -39,7 +39,7 @@
   
 **Result:** 
 - For the positive class, the logistic regression model obtained a recall score of 85%, demonstrating its effectiveness in identifying heart attack patients.
-- The risk of heart attack varies according to age, male sex and diastolic blood pressure.
+- The risk of heart attack shows a direct relationship with age, male sex, and diastolic blood pressure, and an inverse relationship with blood sugar, systolic blood pressure, and heart rate.
   
 🔗 [Python code_Risk Factors Contributing to Heart Attack](https://github.com/taechitpt/My_Portfolio/blob/main/Risk%20Factors%20Contributing%20to%20Heart%20Attack.ipynb)
 
