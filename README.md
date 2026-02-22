@@ -159,7 +159,32 @@ accuracy_score(y_pred,y_test)
 
 ---
 
+###  🤖 5. Building Multi-Step LLM Pipelines using LangChain RunnablePassthrough
 
+**Goal:** 
+- To design and implement a multi-step LLM pipeline using LangChain
+  
+- To understand how RunnablePassthrough enables data flow between chained components
+  
+- To automate sequential reasoning by passing outputs from one model step into the next
+- To practice structured LLM system design for real-world AI applications
+
+**Process:**
+- Receive user input (e.g., a job role such as Data Scientist).
+- Use ChatPromptTemplate to construct a structured prompt.
+- Generate a list of relevant tools using an LLM.
+- Pass both the original input and generated output forward using RunnablePassthrough.
+- Execute a second chain to generate a learning strategy based on the tools.
+- Return a final structured response combining all steps.
+
+**Result:** 
+- Successfully built a structured multi-step LLM workflow.
+- Designed a reusable pipeline architecture adaptable to other AI use cases.
+
+🔗 [Python code_Building Multi-Step LLM Pipelines](https://github.com/taechitpt/My_Portfolio/blob/main/Risk%20Factors%20Contributing%20to%20Heart%20Attack.ipynb)
+
+
+----
 
 ## 🏅 Certificates
 - Python for Data Science, AI & Development – Coursera [ดูใบประกาศนียบัตร](https://drive.google.com/file/d/1yhW5Wkf7ViSJVGQo0GNJ6dJsH8SdpOpj/view?usp=drive_link)  
