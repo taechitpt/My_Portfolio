@@ -181,7 +181,7 @@ accuracy_score(y_pred,y_test)
 - Successfully built a structured multi-step LLM workflow.
 - Designed a reusable pipeline architecture adaptable to other AI use cases.
 
-🔗 [Python code_Building Multi-Step LLM Pipelines](https://github.com/taechitpt/My_Portfolio/blob/main/Risk%20Factors%20Contributing%20to%20Heart%20Attack.ipynb)
+🔗 [Python code_Building Multi-Step LLM Pipelines](https://github.com/taechitpt/My_Portfolio/blob/main/Piping%20Chains%20and%20the%20RunablePassthrough%20Class.ipynb)
 
 
 ----
