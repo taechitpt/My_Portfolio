@@ -19,7 +19,7 @@
 |-----------|----------------|
 | **Programming Languages** | Python, SQL, R|
 | **Data Science & Machine Learning** | Pandas, NumPy, Scikit-learn, Regression, Classification, Clustering, Model Evaluation, Feature Engineering|
-| **NLP & Text Analytics** | Text Preprocessing, TF-IDF, Text Classification, Sentiment Analysis, Prompt Engineering, LangChain, LLM Pipelines|
+| **NLP,LLM & Text Analytics** | Text Preprocessing, TF-IDF, Text Classification, Sentiment Analysis, Prompt Engineering, LangChain, LLM Pipelines|
 | **Data Visualization** | Power BI, Matplotlib, Seaborn, ggplot2|
 | **Tools & Databases** | MySQL, Apache Hadoop (HDFS), HBase, Linux VM, PuTTY, Streamlit(basic), Hugging Face Spaces, RapidMiner, Git/GitHub, Jupyter Notebook|
 | **Statistics** | Descriptive Statistics, Hypothesis Testing, Correlation, Regression Analysis|
