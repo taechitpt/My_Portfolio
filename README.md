@@ -1,10 +1,10 @@
 # My-Portfolio
-# 🧠 Taechit's Data Science Portfolio
+# 🧠 Taechit's Portfolio
 👋 Hello! *My name's* **Taechit Khathanyaakemongkol** l *Nickname*: **Petong**
 
  🎂*Date of birth* : 27 July 1999 l *Age*: 26 
 
-👔*Seeking a position in the Data Scientist/Data Analyst field where I can utilize my skills.*
+👔*Seeking a position in the Data Scientist/Data Analyst/AI Engineer field where I can utilize my skills.*
    
    
 ---
