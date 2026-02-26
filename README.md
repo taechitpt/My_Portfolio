@@ -159,12 +159,11 @@ accuracy_score(y_pred,y_test)
 
 ---
 
-###  🤖 5. Building Multi-Step LLM Pipelines using LangChain RunnablePassthrough
+###  🤖 5. Building Multi-Step LLM Pipelines using LangChain 
 
 **Goal:** 
 - To design and implement a multi-step LLM pipeline using LangChain
   
-- To understand how RunnablePassthrough enables data flow between chained components
   
 - To automate sequential reasoning by passing outputs from one model step into the next
 - To practice structured LLM system design for real-world AI applications
