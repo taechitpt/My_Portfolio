@@ -27,7 +27,7 @@
 ---
 
 ## 🚀Personal Projects
-
+## 🔶 Data Science & Machine - Learning 
 ### 📊 1. Risk Factors Contributing to Heart Attack (*Academic Project*)                       
 **Tools:** Python (Pandas, Matplotlib, sckit-learn).
 
@@ -82,7 +82,8 @@ plt.tight_layout()
 plt.show()
 ```
 ----------------------------------------------------------------
-###  🧑‍💻2. Trip Advisor Hotel Reviews (*Academic Project*)
+## 🔷 NLP, LLM & Text Analytics
+###  🧑‍💻1. Trip Advisor Hotel Reviews (*Academic Project*)
 **Tools:** RapidMiner (Text Analytics, Classification, Clustering).
 
 **Goal:** Sentiment analysis of hotel reviews in relation to rating scores using the TripAdvisor dataset from kaggle.
@@ -100,7 +101,7 @@ plt.show()
 
 
 --------------------------------------------------------------------------
-###  🖥 3. Sentiment Analysis Model Deployment
+###  🖥 2. Sentiment Analysis Model Deployment
 **Tools:** Python (scikit-learn, streamlit), HuggingFace Spaces
 
 **Goal:** Develop and deploy a Logistic Regression model for text sentiment classification.
@@ -139,7 +140,7 @@ accuracy_score(y_pred,y_test)
 ```
 
 -----
-###  📬 4. Email Spam Detection using NLP and Logistic Regression
+###  📬 3. Email Spam Detection using NLP and Logistic Regression
 
 **Tools:** Python (scikit-learn, nltk) 
 
@@ -159,7 +160,7 @@ accuracy_score(y_pred,y_test)
 
 ---
 
-###  🤖 5. Building Multi-Step LLM Pipelines using LangChain 
+###  🤖 4. Building Multi-Step LLM Pipelines using LangChain 
 
 **Goal:** 
 - To design and implement a multi-step LLM pipeline using LangChain
