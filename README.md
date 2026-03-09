@@ -81,6 +81,23 @@ plt.axvline(x=0, color='r',linestyle='--')
 plt.tight_layout()
 plt.show()
 ```
+---------------------------------------------------------------
+### 🎥 2. Movie Recommendation System                      
+**Tools:** Tools: SQL, Python (Pandas).
+
+**Goal:** To build a movie recommendation system that suggests relevant movies to users based on rating similarity using collaborative filtering.
+
+**Process:**
+- Extracted movie rating data using SQL queries and INNER JOIN to combine user
+ratings with movie information.
+- Constructed a user–movie rating matrix to analyze user preferences.
+- Implemented a correlation-based collaborative filtering model to recommend
+similar movies.
+- Generated Top-10 recommendations.
+- Evaluated results using Precision@10.
+
+🔗 [Movie Recommendation System_python code](https://drive.google.com/file/d/1YeklW6qZqACHYq9q5ZXrlH1o_ljV9pUd/view?usp=drive_link)
+
 ----------------------------------------------------------------
 ## 🔷 NLP, LLM & Text Analytics
 ###  🧑‍💻1. Trip Advisor Hotel Reviews (*Academic Project*)
