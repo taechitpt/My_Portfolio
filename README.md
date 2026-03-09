@@ -96,7 +96,7 @@ similar movies.
 - Generated Top-10 recommendations.
 - Evaluated results using Precision@10.
 
-🔗 [Movie Recommendation System_python code](https://drive.google.com/file/d/1YeklW6qZqACHYq9q5ZXrlH1o_ljV9pUd/view?usp=drive_link)
+🔗 [Movie Recommendation System_python code](https://github.com/taechitpt/My_Portfolio/blob/main/Movies%20Recommendation%20Model.ipynb)
 
 ----------------------------------------------------------------
 ## 🔷 NLP, LLM & Text Analytics
