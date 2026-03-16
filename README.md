@@ -98,6 +98,22 @@ similar movies.
 
 🔗 [Movie Recommendation System_python code](https://github.com/taechitpt/My_Portfolio/blob/main/Movies%20Recommendation%20Model.ipynb)
 
+------------------------------------------------------
+### ☕ 3. Coffee Quality Prediction                      
+**Tools:** Python (Pandas, Scikit-learn), Random Forest, Kaggle.
+
+**Goal:** To build a movie recommendation system that suggests relevant movies to users based on rating similarity using collaborative filtering.
+
+**Process:**
+- Performed data preprocessing and exploratory data analysis on a coffee quality dataset.
+- Built a Random Forest regression model to predict coffee quality scores.
+- Evaluated model performance using RMSE and R², achieving RMSE 0.39 and R² 0.90.
+- Analyzed feature importance to identify key factors affecting coffee quality.
+
+🔗 [Coffee Quality Prediction_python code](https://github.com/taechitpt/Data-Scientist-Intern-freshket/blob/main/coffee_quality_prediction_Taechit_1.ipynb)
+
+
+
 ----------------------------------------------------------------
 ## 🔷 NLP, LLM & Text Analytics
 ###  🧑‍💻1. Trip Advisor Hotel Reviews (*Academic Project*)
