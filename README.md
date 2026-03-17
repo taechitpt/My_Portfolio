@@ -28,7 +28,7 @@
 
 ## 🚀Personal Projects
 ## 🔶 Data Science & Machine Learning 
-#### 📊 1. Risk Factors Contributing to Heart Attack (*Academic Project*)  
+### 📊 1. Risk Factors Contributing to Heart Attack (*Academic Project*)  
 
 **Tools:** Python (Pandas, Matplotlib, Scikit-learn)  
 
