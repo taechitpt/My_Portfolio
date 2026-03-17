@@ -186,7 +186,7 @@ accuracy_score(y_pred,y_test)
 - Optimized and evaluated the model to achieve strong classification performance.
 
 **Result:** 
-- Achieved an accuracy of 88%.
+- Achieved an accuracy of 94%.
 
 🔗 [Spam Mail Classification with NLP and Machine Learning_Python_Code](https://github.com/taechitpt/My_Portfolio/blob/main/NLP_mail_classification.ipynb)
 
