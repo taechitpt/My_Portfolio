@@ -28,18 +28,23 @@
 
 ## 🚀Personal Projects
 ## 🔶 Data Science & Machine Learning 
-### 📊 1. Risk Factors Contributing to Heart Attack (*Academic Project*)                       
-**Tools:** Python (Pandas, Matplotlib, sckit-learn).
+#### 📊 1. Risk Factors Contributing to Heart Attack (*Academic Project*)  
 
-**Goal:** Evaluation of a logistic regression model for predicting heart attack factors using kaggle dataset. 
+**Tools:** Python (Pandas, Matplotlib, Scikit-learn)  
 
-**Process:**
-- Developed and evaluated a logistic regression model to identify key risk factors associated with heart attacks using a public healthcare dataset.
-- Achieved strong predictive performance through feature selection and model evaluation, supporting data-driven health insights.
-  
-**Result:** 
-- For the positive class, the logistic regression model obtained a recall score of 85%, demonstrating its effectiveness in identifying heart attack patients.
-- The risk of heart attack shows a direct relationship with age, male sex, and diastolic blood pressure, and an inverse relationship with blood sugar, systolic blood pressure, and heart rate.
+**Goal:**  
+Developed a classification model to identify key risk factors contributing to heart attacks using a public healthcare dataset.  
+
+**Process:**  
+- Performed data preprocessing, including handling missing values and detecting outliers using the IQR method.  
+- Conducted exploratory data analysis (EDA) using statistical summaries, heatmaps, and boxplots to understand feature relationships.  
+- Built and trained a Logistic Regression model with feature scaling to improve model stability.  
+- Evaluated model performance using accuracy score and confusion matrix.  
+
+**Results:**  
+- Achieved a recall score of **94%** for the positive class, demonstrating strong performance in identifying high-risk patients.  
+- Identified key predictors such as **Troponin** and **CK-MB**, which showed strong influence on heart attack classification.  
+- Provided data-driven insights into the relationship between clinical features and heart attack risk.
   
 🔗 [Python code_Risk Factors Contributing to Heart Attack](https://github.com/taechitpt/My_Portfolio/blob/main/Risk%20Factors%20Contributing%20to%20Heart%20Attack.ipynb)
 
