@@ -178,11 +178,11 @@ accuracy_score(y_pred,y_test)
 ```
 
 -----
-###  📬 3. Email Spam Detection using NLP and Logistic Regression
+###  📬 3. Email Spam Detection using NLP
 
-**Tools:** Python (scikit-learn, nltk) 
+**Tools:** Python (scikit-learn, nltk) , GaussianNB
 
-**Goal:** To build an NLP-based model for classifying spam and non-spam emails using logistic regression.
+**Goal:** To build an NLP-based model for classifying spam and non-spam emails using Gaussian Naive Bayes
 
 **Process:**
 
