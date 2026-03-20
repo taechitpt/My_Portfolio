@@ -48,44 +48,6 @@ Developed a classification model to identify key risk factors contributing to he
   
 🔗 [Python code_Risk Factors Contributing to Heart Attack](https://github.com/taechitpt/My_Portfolio/blob/main/Risk%20Factors%20Contributing%20to%20Heart%20Attack.ipynb)
 
-💬 Example of Python Code
-```python
-from sklearn.linear_model import LogisticRegression
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, classification_report
-from sklearn.preprocessing import StandardScaler
-df = pd.read_csv(file_path)
-
-df['Result'] = df['Result'].map({'negative':0,'positive':1})
-features = ['Age','Gender','Heart rate','Systolic blood pressure','Diastolic blood pressure','Blood sugar']
-X = df[['Age','Gender','Heart rate','Systolic blood pressure','Diastolic blood pressure','Blood sugar']]
-y = df['Result']
-scaler = StandardScaler()
-X_scaled = scaler.fit_transform(X)
-
-X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
-model = LogisticRegression()
-model.fit(X_train, y_train)
-y_pred = model.predict(X_test)
-
-print(classification_report(y_test, y_pred))
-print(accuracy_score(y_test, y_pred))
-
-coefficients = pd.Series(model.coef_[0], index=features)
-print("Feature Coefficients:")
-print(coefficients.sort_values)
-#Visualization
-plt.barh(features,coefficients)
-plt.title("Impact of Features on Heart Attack Risk")
-plt.xlabel('Coefficients values')
-plt.ylabel('Features')
-plt.axvline(x=0, color='r',linestyle='--')
-plt.tight_layout()
-plt.show()
-```
 ---------------------------------------------------------------
 ### 🎥 2. Movie Recommendation System                      
 **Tools:** Tools: SQL, Python (Pandas).
