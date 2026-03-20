@@ -50,7 +50,7 @@ Developed a classification model to identify key risk factors contributing to he
 
 ---------------------------------------------------------------
 ### 🎥 2. Movie Recommendation System                      
-**Tools:** Tools: SQL, Python (Pandas).
+**Tools:** SQL, Python (Pandas).
 
 **Goal:** To build a movie recommendation system that suggests relevant movies to users based on rating similarity using collaborative filtering.
 
