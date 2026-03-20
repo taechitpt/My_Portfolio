@@ -30,7 +30,7 @@
 ## 🔶 Data Science & Machine Learning 
 ### 📊 1. Risk Factors Contributing to Heart Attack (*Academic Project*)  
 
-**Tools:** Python (Pandas, Seaborn, Matplotlib, Scikit-learn)  
+**Tools:** Python (Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn)  
 
 **Goal:**  
 Developed a classification model to identify key risk factors contributing to heart attacks using a public healthcare dataset.  
