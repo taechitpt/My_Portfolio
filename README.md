@@ -67,6 +67,26 @@ similar movies.
 
 ------------------------------------------------------
 
+### ☕ 3. Coffee Quality Prediction                      
+**Tools:** Python (Pandas, Seaborn, Scikit-learn), Random Forest, Kaggle.
+
+**Goal:** Developed a machine learning model to predict coffee quality scores based on physicochemical attributes, aiming to identify key factors that influence coffee grading.
+
+**Process:**
+- Performed data preprocessing and exploratory data analysis on a coffee quality dataset.
+- Built a Random Forest regression model to predict coffee quality scores.
+- Evaluated model performance using RMSE and R², achieving RMSE 0.39 and R² 0.90.
+- Analyzed feature importance to identify key factors affecting coffee quality.
+
+**Results:**
+
+- Successfully built a predictive model for coffee quality scoring.
+- Identified key features that strongly influence quality (e.g., acidity, flavor, aftertaste, balance)
+- Provided data-driven understanding of coffee grading factors.  
+
+
+🔗 [Coffee Quality Prediction_python code](https://github.com/taechitpt/Data-Scientist-Intern-freshket/blob/main/coffee_quality_prediction_Taechit_1.ipynb)
+
 
 ----------------------------------------------------------------
 ## 🔷 NLP, LLM & Text Analytics
