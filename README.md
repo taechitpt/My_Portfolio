@@ -200,7 +200,7 @@ accuracy_score(y_pred,y_test)
 - Designed prompt templates to improve retrieval relevance and answer accuracy.
 - Optimized text preprocessing for efficient token usage.
   
-🔗 [Python code_Building Multi-Step LLM Pipelines](https://github.com/taechitpt/My_Portfolio/blob/main/RAG%20Chatbot%20with%20Embeddings%20and%20Vector%20Search.ipynb)
+🔗 [RAG-based Chatbot for Document Question Answering](https://github.com/taechitpt/My_Portfolio/blob/main/RAG%20Chatbot%20with%20Embeddings%20and%20Vector%20Search.ipynb)
 
 ----
 
