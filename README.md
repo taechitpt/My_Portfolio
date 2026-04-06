@@ -201,7 +201,7 @@ accuracy_score(y_pred,y_test)
 - Designed an end-to-end pipeline including document chunking, vector storage in Pinecone, and context-aware response generation.
 - Built and deployed an interactive Streamlit application with real-time streaming responses for improved user experience.
 
-🔗 [RAG-based Chatbot for Document Question Answering](https://github.com/taechitpt/My_Portfolio/blob/main/RAG%20Chatbot%20with%20Embeddings%20and%20Vector%20Search.ipynb)
+🔗 [RAG-based Chatbot for Document Question Answering](https://github.com/taechitpt/My_Portfolio/blob/main/RAG-based%20Document%20QA%20Application%20with%20Pinecone.ipynb)
 
 
 ----
