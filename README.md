@@ -190,17 +190,19 @@ accuracy_score(y_pred,y_test)
 🔗 [Python code_Building Multi-Step LLM Pipelines](https://github.com/taechitpt/My_Portfolio/blob/main/Piping%20Chains%20and%20the%20RunablePassthrough%20Class.ipynb)
 
 ----------
-###  🤖 5. RAG-based Chatbot for Document Question Answering
+###  🤖 5.RAG-based Document QA Application
 
-**Tools:** Python, LangChain, Chroma, Embeddings, OpenAI API
+**App Model:** 🔗 [Demo: RAG-based Document QA Application](https://huggingface.co/spaces/taechitpt/RAG_based_Document_QA_Application)
+
+**Tools:** Python (LangChain, OpenAI, Pinecone, Streamlit), Hugging Face Spaces
 
 **Process:**
-- Developed an end-to-end RAG pipeline with document chunking, embedding, and vector search.
-- Built semantic retrieval system using Chroma vector database for context-aware responses.
-- Designed prompt templates to improve retrieval relevance and answer accuracy.
-- Optimized text preprocessing for efficient token usage.
-  
+- Developed a Retrieval-Augmented Generation (RAG) system for question answering over custom documents using embedding-based semantic search.
+- Designed an end-to-end pipeline including document chunking, vector storage in Pinecone, and context-aware response generation.
+- Built and deployed an interactive Streamlit application with real-time streaming responses for improved user experience.
+
 🔗 [RAG-based Chatbot for Document Question Answering](https://github.com/taechitpt/My_Portfolio/blob/main/RAG%20Chatbot%20with%20Embeddings%20and%20Vector%20Search.ipynb)
+
 
 ----
 
