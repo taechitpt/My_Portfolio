@@ -36,8 +36,7 @@
 Developed a classification model to identify key risk factors contributing to heart attacks using a public healthcare dataset.  
 
 **Process:**  
-- Performed data preprocessing, including handling missing values and detecting outliers using the IQR method.  
-- Conducted exploratory data analysis (EDA) using statistical summaries, heatmaps, and boxplots to understand feature relationships.  
+- Performed data preprocessing, including handling missing values and detecting outliers using the IQR method.   
 - Built and trained a Logistic Regression model with feature scaling to improve model stability.  
 - Evaluated model performance using accuracy score and confusion matrix.  
 
