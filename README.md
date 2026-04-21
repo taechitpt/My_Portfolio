@@ -152,7 +152,7 @@ similar movies.
 🔗 [Python code_Building Multi-Step LLM Pipelines](https://github.com/taechitpt/My_Portfolio/blob/main/Piping%20Chains%20and%20the%20RunablePassthrough%20Class.ipynb)
 
 ----------
-###  🤖 4.RAG-based Document QA Application
+###  🤖 4. RAG-based Document QA Application
 
 **App Model:** 🔗 [Demo: RAG-based Document QA Application](https://huggingface.co/spaces/taechitpt/RAG_based_Document_QA_Application)
 
