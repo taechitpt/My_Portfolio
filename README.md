@@ -106,47 +106,10 @@ similar movies.
 
 
 
---------------------------------------------------------------------------
-###  🖥 2. Sentiment Analysis Model Deployment
-**Tools:** Python (scikit-learn, streamlit), HuggingFace Spaces
+-------------------------------------------------------------------------
 
-**Goal:** Develop and deploy a Logistic Regression model for text sentiment classification.
 
-**App Model:** 🔗 [Demo: Sentiment Classification App](https://huggingface.co/spaces/taechitpt/sentiment_analysis_app)
-
-**Process:**
-- Developed NLP pipeline: preprocessing, vectorization (CountVectorizer), model training.
-- Evaluated model performance and optimized features.
-- Deployed model as a web service using Streamlit on HuggingFace Spaces.
-  
-**Result:** 
-- Achieved an accuracy of 82%.
-
-💬 Example of Python Code
-```python
-import pandas as pd 
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-from sklearn.feature_extraction.text import CountVectorizer
-
-df = pd.DataFrame(text, columns=["Text","Sentiment"]) 
-X = df['Text']
-y = df['Sentiment']
-#Vectorizing Text
-count_vector = CountVectorizer()
-count_vector_fit= count_vector.fit_transform(X)
-bag_of_word = pd.DataFrame(count_vector_fit.toarray(), columns = count_vector.get_feature_names_out()) 
-print(bag_of_word)
-#Train_Test_model
-X_train,X_test,y_train,y_test = train_test_split(bag_of_word,y,test_size=0.3, random_state=8)
-model = LogisticRegression().fit(X_train,y_train)
-y_pred = model.predict(X_test)
-accuracy_score(y_pred,y_test) 
-```
-
------
-###  📬 3. Email Spam Detection using NLP
+###  📬 2. Email Spam Detection using NLP
 
 **Tools:** Python (scikit-learn, nltk) , GaussianNB
 
@@ -166,7 +129,7 @@ accuracy_score(y_pred,y_test)
 
 ---
 
-###  🤖 4. Building Multi-Step LLM Pipelines using LangChain 
+###  🤖 3. Building Multi-Step LLM Pipelines using LangChain 
 
 **Goal:** 
 - To design and implement a multi-step LLM pipeline using LangChain
@@ -189,7 +152,7 @@ accuracy_score(y_pred,y_test)
 🔗 [Python code_Building Multi-Step LLM Pipelines](https://github.com/taechitpt/My_Portfolio/blob/main/Piping%20Chains%20and%20the%20RunablePassthrough%20Class.ipynb)
 
 ----------
-###  🤖 5.RAG-based Document QA Application
+###  🤖 4.RAG-based Document QA Application
 
 **App Model:** 🔗 [Demo: RAG-based Document QA Application](https://huggingface.co/spaces/taechitpt/RAG_based_Document_QA_Application)
 
